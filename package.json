@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-fountain",
+  "version": "1.0.0",
+  "description": "A Metalsmith plugin to convert fountain files.",
+  "author": "huw",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.3.2"
+  }
+}
