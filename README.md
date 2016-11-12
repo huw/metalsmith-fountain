@@ -56,6 +56,10 @@
 
   By default, the `title` and `date` attributes in Metalsmith's metadata will also be overridden with values from the Fountain metadata (where `date` takes priority over `draft_date` if both are present). To disable this, set `preserve_title` and `preserve_date` to false, respectively.
 
+## Styling
+
+  This [example](https://gist.github.com/huw/43b9199a4463984d9791f8fb3beda22a) responsively styles most of the output HTML. Currently, it is recommended to look at that example and the output HTML to get a sense of what to style.
+
 ## License
 
   MIT
