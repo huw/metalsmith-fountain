@@ -23,7 +23,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     transition: /^((?:FADE (?:TO BLACK|OUT)|CUT TO BLACK)\.|.+ TO\:)|^(?:> *)(.+)/,
 
-    dialogue: /^([A-Z*_]+[0-9A-Z (._\-')]*)(\^?)?(?:\n(?!\n+))([\s\S]+)/,
+    dialogue: /^([A-Z*_]+[0-9A-Z (._\-'’)]*)(\^?)?(?:\n(?!\n+))([\s\S]+)/,
     parenthetical: /^(\(.+\))$/,
 
     action: /^(.+)/g,

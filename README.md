@@ -1,5 +1,6 @@
 
 # metalsmith-fountain
+  [![npm](https://img.shields.io/npm/v/metalsmith-fountain.svg)](https://www.npmjs.com/package/metalsmith-fountain)
 
   A Metalsmith plugin to convert [Fountain](http://fountain.io) screenplay files.
 
